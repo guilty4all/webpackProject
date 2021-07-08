@@ -1,4 +1,4 @@
-
+import "./styles/index.scss"
 
 let o = {
     helo: "string",
